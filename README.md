@@ -60,7 +60,7 @@ Una aplicación web interactiva y educativa para calcular balances de materia en
 ## 🌐 Demo en Vivo
 
 **Accede a la aplicación desplegada:**
-[Sistema de Balance de Materia en Streamlit Cloud](https://tu-app.streamlit.app) *(Actualiza con tu URL una vez desplegada)*
+[Sistema de Balance de Materia en Streamlit Cloud](https://balance-de-mate.streamlit.app/)
 
 ---
 
